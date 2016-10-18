@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidClient</string>
+    <string name="hello">stringvar</string>
+</resources>
